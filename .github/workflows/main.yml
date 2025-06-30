@@ -2,8 +2,7 @@ name: Sk Mujahid
 
 on:
  push:
- branches: 
-  - main
+ branches: [main]
 
   jobs: 
     Demo:
